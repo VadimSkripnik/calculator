@@ -20,3 +20,5 @@ foreValue.addEventListener("click", function () {
         console.log(a / b);
     }
 });
+
+console.log('Test2')
