@@ -21,4 +21,3 @@ foreValue.addEventListener("click", function () {
     }
 });
 
-console.log('Test2')
